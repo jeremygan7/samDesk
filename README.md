@@ -1,0 +1,2 @@
+# samDesk
+Solution to adventofcode
